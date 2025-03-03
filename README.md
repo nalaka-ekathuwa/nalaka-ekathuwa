@@ -79,7 +79,6 @@ exposure to React, Python and Java.
 <p align="center"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="BitBucket" width="50" height="50"/> </a>
-
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira-atlassian" width="50" height="50"/> </a>
 </p>
 
