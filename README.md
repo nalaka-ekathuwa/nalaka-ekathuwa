@@ -13,14 +13,13 @@
 
 <br>
 
-- 🌱 Enthusiastic Software Developer with a solid foundation in web and backend
-development.  
+- 🌱 Enthusiastic Software Developer with a solid foundation in web and Full Stack
+Development.  
 - 🌱 Experienced in PHP with Laravel and YII frameworks, with hands-on
 exposure to React, Python and Java.
-- 🌱 Passionate about building scalable, efficient CONTACT software solutions and eager to enhance my skills in a dynamic environment.
+- 🌱 Passionate about building scalable, efficient software solutions and eager to enhance my skills in a dynamic environment.
 - 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nalaka-ruberu-9009ba118/) 🏆.
+- :thinking: I’m currently open for a new `job opportunity`. 🏆
 <br>
 
   ## 🛠️ My Skills
@@ -30,10 +29,18 @@ exposure to React, Python and Java.
 ### Programming languages
 
 &emsp;
+<p align="center"> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=55251&format=png" alt="C#" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50" height="50"/> </a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTMl" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/> </a>
+</p>
 php
+C#
 java
 c++
-c#
 html
 javascript
 sql
@@ -111,19 +118,15 @@ mysql
  <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/nalaka-ruberu-9009ba118/">
-   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nalaka-ekathuwa">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:nalakadinesh123@gmail.com">
-  <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-      </div>
-
+<a href="mailto:nalakadinesh123@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail Address" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nalaka-ruberu-9009ba118/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIN" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/10308625/nalaka-dinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Over flow" height="50" width="50" /></a>
+<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://instagram.com/nalaka_nd" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" /></a>
 </p>
 
 <p>Total visitors till now 👇❤️</p>
