@@ -66,8 +66,6 @@ exposure to React, Python and Java.
 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://getcomposer.org/img/logo-composer-transparent2.png" alt="Composer" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="GIT" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=7038" alt="WinSvp" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=7038" alt="WinSvp" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" alt="Navicat" width="50" height="50"/> </a>
 </p>
