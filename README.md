@@ -36,83 +36,72 @@ exposure to React, Python and Java.
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50" height="50"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTMl" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="Type Script" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tail-wind CSS" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj8Q6Ad2OPh16wk4htN16opXtwch61nh6twJH_QXBdVOWh9FXg0C7NcVR0cbhmz9gLz8&usqp=CAU" alt="SCSS" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/> </a>
 </p>
-php
-C#
-java
-c++
-html
-javascript
-sql
-typescript
-css
-tailwind css
-scss
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
 
 ### Frameworks
 
 &emsp;
 
-Bootstrap
-Laravel
-YII
-CodeIgniter
-React
-
-
-![React](https://img.shields.io/badge/-React-000?logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?logo=Chart.js)
+<p align="center"> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50"/> </a> 
+<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" alt="YII" width="50" height="50"/> </a> 
+<a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="Code Igniter" width="50" height="50"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="YII" width="50" height="50"/> </a> 
+</p>
 
 ### Tools and Libraries
 
+&emsp;
+
+<p align="center"> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" alt="AJAX" width="50" height="50"/> </a>
+<a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://getcomposer.org/img/logo-composer-transparent2.png" alt="Composer" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="GIT" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=7038" alt="WinSvp" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=7038" alt="WinSvp" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" alt="Navicat" width="50" height="50"/> </a>
+</p>
+
+
+### version control & Project Management
 
 &emsp;
-jquery
-ajax
-trello
-bitrix
-jira
-cpanel
+<p align="center"> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="BitBucket" width="50" height="50"/> </a>
 
-![Express](https://img.shields.io/badge/-Express-000?logo=Express)
-
-### version control
-
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira-atlassian" width="50" height="50"/> </a>
+</p>
 
 ### IDE
 
 &emsp;
-vscode
-netbeans
-inteliJ
-phpstorm
-![Auth0](https://img.shields.io/badge/-Auth0-000?logo=Auth0)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
+<p align="center"> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png?20200803075927" alt="PHP Storm" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180913/uto/kisspng-intellij-idea-jetbrains-integrated-development-env-1713941196524.webp" alt="Intelj" width="50" height="50"/> </a>
+</p>
+
+
 
 ### Databases
 
 &emsp;
-mssql
-mysql
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+<p align="center"> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySql" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Ms Sql" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="Mongo DB" width="50" height="50"/> </a>
+</p>
 
 <p align = "center">
  <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
@@ -125,7 +114,7 @@ mysql
 <a href="mailto:nalakadinesh123@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail Address" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/nalaka-ruberu-9009ba118/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIN" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/10308625/nalaka-dinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Over flow" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.facebook.com/nalaka.dinesh.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://instagram.com/nalaka_nd" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" /></a>
 </p>
 
@@ -134,4 +123,4 @@ mysql
 
 -------
 Credits: [nitindahiya199](https://github.com/nitindahiya199)
-Last Edited on: 01-03-2025
+Last Edited on: 03-03-2025
