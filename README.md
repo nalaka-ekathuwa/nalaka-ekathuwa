@@ -1,5 +1,6 @@
 <h1 align="center"> Tervetuloa! 👋 I am Nalaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -33,7 +34,6 @@ exposure to React, Python and Java.
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tail-wind CSS" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj8Q6Ad2OPh16wk4htN16opXtwch61nh6twJH_QXBdVOWh9FXg0C7NcVR0cbhmz9gLz8&usqp=CAU" alt="SCSS" width="50" height="50"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50"/> </a> 
 <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" alt="YII" width="50" height="50"/> </a> 
@@ -56,6 +56,7 @@ exposure to React, Python and Java.
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="BitBucket" width="50" height="50"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira-atlassian" width="50" height="50"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/> </a>
 </p>
 
 ### Miscellaneous
